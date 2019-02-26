@@ -7,6 +7,7 @@ demo环境
 TM:
 1、配置TM之前需要准备中间件 JRE1.8+, Mysql5.6+, Redis3.2+
 2、创建MySQL数据库, 名称为: tx-manager sql问如下
+
 CREATE TABLE `t_tx_exception`  (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `group_id` varchar(64) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL,
