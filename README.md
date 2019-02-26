@@ -92,4 +92,4 @@ tx-lcn.client.manager-address=127.0.0.1:8070
 
 四、此demospringboot版本是springboot2.1.0，注册中心用的eureka,然后还用了 feign
 
-#若有问题可以联系邮箱936527874@
+#若有问题可以联系邮箱936527874@qq.com
