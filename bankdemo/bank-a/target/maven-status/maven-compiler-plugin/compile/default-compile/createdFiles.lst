@@ -1,0 +1,6 @@
+com\example\banka\BankAApplication.class
+com\example\banka\BankBClient.class
+com\example\banka\Account.class
+com\example\banka\Controller.class
+com\example\banka\Service.class
+com\example\banka\AccountDao.class
